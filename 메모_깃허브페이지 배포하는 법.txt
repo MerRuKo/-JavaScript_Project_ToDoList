@@ -1,0 +1,7 @@
+* 다른 패키지 없는 간단한 프로젝트만 해당 됨.
+
+1. 커밋,푸쉬하고 리포지토리의 Settings로 가서 좌측의 Pages로 이동.
+
+2. Build and deployment의 Branch 항목에서 메인브랜치(main)를 선택하고 sava를 누른다.
+
+3. 몇분 기다렸다가 https://merruko.github.io/리포지토리명/ 으로 이동하면 페이지 확인 가능.
